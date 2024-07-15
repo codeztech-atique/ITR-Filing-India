@@ -14,9 +14,9 @@ Old regime -
 5. Medical expenses - ( Given )
 6. Mobile and Internet Bill - ( Given )
 7. Donation - ( Given )
-8. Sodexo bill - Pending
-9. LIC - ( 80C Given )
-10. Petrol - Pending
+8. LIC - ( 80C Given )
+9. Petrol - ( Given )
+10. Stock - Etrade
 
 
 Total Amount -  ( Mar 2023 - April 2024 )
@@ -27,5 +27,6 @@ Total Amount -  ( Mar 2023 - April 2024 )
 4. Mobile Bill - 6185.35 RS
 5. Internet Bill - 14236 RS
 6. Donation - 500 RS
-7. Petrol - 
+7. Petrol - 72960.03 RS
 8. LIC - 107919.66 RS
+9. Stock Etrade - Submitted

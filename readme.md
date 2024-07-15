@@ -13,3 +13,4 @@ Old regime
 11) LIC - ( 80C )
 12) EMI - ( House Rent )
 13) Petrol
+14) Stock

@@ -1,8 +1,9 @@
 Must read - 
 
 1. I want to file the tax under old tax regime
-2. Donation 10k cash amount, no bill
-3. 
+2. Please dont forget to declare Stock
+3. Please dont forget to declare all the nessary things in the below. 
+4. If any doubt please call me - 8553208493, If not answered, ping me in whatsup.
 
 
 Old regime - 
